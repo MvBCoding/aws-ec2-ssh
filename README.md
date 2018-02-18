@@ -156,3 +156,4 @@ For your EC2 instances, you need a IAM role that allows the `sts:AssumeRole` act
   * IAM API limitations
   * Disk space issues
 * **not all IAM user names are allowed in Linux user names** (e.g. if you use email addresses as IAM user names). See section [IAM user names and Linux user names](#iam-user-names-and-linux-user-names) for further details.
+
